@@ -1,0 +1,52 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* employee_sale_invoice
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0-20241125\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-02 12:55+0000\n"
+"PO-Revision-Date: 2024-12-02 12:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: employee_sale_invoice
+#: model:ir.model,name:employee_sale_invoice.model_res_partner
+msgid "Contact"
+msgstr "Contacto"
+
+#. module: employee_sale_invoice
+#: model:ir.model.fields,field_description:employee_sale_invoice.field_account_bank_statement_line__hr_employee_id
+#: model:ir.model.fields,field_description:employee_sale_invoice.field_account_invoice_report__hr_employee_id
+#: model:ir.model.fields,field_description:employee_sale_invoice.field_account_move__hr_employee_id
+#: model:ir.model.fields,field_description:employee_sale_invoice.field_res_partner__hr_employee_id
+#: model:ir.model.fields,field_description:employee_sale_invoice.field_res_users__hr_employee_id
+#: model:ir.model.fields,field_description:employee_sale_invoice.field_sale_order__hr_employee_id
+#: model:ir.model.fields,field_description:employee_sale_invoice.field_sale_report__hr_employee_id
+msgid "Employee"
+msgstr "Empleado"
+
+#. module: employee_sale_invoice
+#: model:ir.model,name:employee_sale_invoice.model_account_invoice_report
+msgid "Invoices Statistics"
+msgstr "Estadísticas de facturas"
+
+#. module: employee_sale_invoice
+#: model:ir.model,name:employee_sale_invoice.model_account_move
+msgid "Journal Entry"
+msgstr "Asiento contable"
+
+#. module: employee_sale_invoice
+#: model:ir.model,name:employee_sale_invoice.model_sale_report
+msgid "Sales Analysis Report"
+msgstr "Reporte del análisis de ventas"
+
+#. module: employee_sale_invoice
+#: model:ir.model,name:employee_sale_invoice.model_sale_order
+msgid "Sales Order"
+msgstr "Orden de venta"

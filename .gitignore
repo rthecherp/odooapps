@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+docker-compose.yaml
+config/
+addons/
+enterprise/
