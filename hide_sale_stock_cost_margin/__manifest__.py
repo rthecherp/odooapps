@@ -1,8 +1,8 @@
 {
-    "name": "Hide Sale Cost Margin",
+    "name": "Hide Sale Stock Cost Margin",
     'version': '18.0.1.0.0',
     'category': 'Sales/Sales',
-    "summary": "Hide Sale Margin",
+    "summary": "Hide Sale Stock Cost Margin",
     'author': "THECH ERP",
     "depends": [
         "sale",
