@@ -1,5 +1,5 @@
 
-# R-THECH ERP
+# THECH ERP
 
 Modulos de odoo para  ODOO APPS GRATIS.
 
@@ -14,3 +14,4 @@ Addons
 Addon | version    | resumen
 --- |------------| ---
 [Employee Sale Invoice](employee_sale_invoice/) | 18.0.1.0.0 | Employee Sale Invoice
+[Hide Sale Cost Margin](hide_sale_stock_cost_margin/) | 18.0.1.0.0 | Hide Sale Cost Margin
